@@ -10,7 +10,7 @@ Server Model Context Protocol (MCP) berbasis TypeScript yang memungkinkan asiste
 
 ---
 
-> **Catatan:** Proyek ini didasarkan pada [web-search-mcp](https://github.com/mrkrsl/web-search-mcp) oleh Mark Russell, dengan modifikasi untuk integrasi dengan proyek [FinancialBot](../LLM-Agent-FinancialBot/) kami.
+> **Catatan:** Proyek ini didasarkan pada [web-search-mcp](https://github.com/mrkrsl/web-search-mcp) oleh Mark Russell, dengan modifikasi untuk integrasi dengan proyek [FinancialBot](https://github.com/grandiv/LLM-Agent-FinancialBot) kami.
 
 ## Tentang Integrasi Ini
 
@@ -360,7 +360,7 @@ Bot: Saya cari harga iPhone online dulu ya...
 
 ### Proyek Terkait
 
-- **FinancialBot**: [../LLM-Agent-FinancialBot/](../LLM-Agent-FinancialBot/)
+- **FinancialBot**: [https://github.com/grandiv/LLM-Agent-FinancialBot](https://github.com/grandiv/LLM-Agent-FinancialBot)
   - Asisten keuangan berbasis LLM untuk bahasa Indonesia
   - Menggunakan server MCP ini untuk pencarian harga real-time
   - Dibangun dengan Python, Discord.py, dan OpenRouter API
